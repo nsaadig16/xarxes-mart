@@ -1,5 +1,13 @@
 # Commands Pràctica 2 de Xarxes
 
+## Minicom setup
+
+```minicom
+Serial device: /dev/ttyS0
+Bps/Par/Bits: 9600 8N1
+Hardware Flow Control: No
+```
+
 ## Bàsic
 
 * Asignar una adreça IP a una interfície
