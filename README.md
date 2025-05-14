@@ -14,6 +14,15 @@ sudo ifconfig <interfície> <ip_address> up
 aaa authentication <protocol> local
 ```
 
+* Esborrar configuració guardada
+
+```minicom
+rm /flash/working/boot.cfg
+rm /flash/certified/boot.cfg
+reload
+write terminal
+```
+
 ### Gestió de nivell 2
 
 * Visualitzar únicament l'estat dels ports

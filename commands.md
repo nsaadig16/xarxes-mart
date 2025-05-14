@@ -1,0 +1,5 @@
+# Starting commands
+
+```minicom
+
+```
